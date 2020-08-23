@@ -1,6 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jonatan Salas</h1>
+<h3 align="center">A passionate Software Architect from Argentina</h3>
+
+
+- 🔭 I’m currently working on [BlackBox Vision](https://www.blackbox-vision.tech) and [Ingenia](https://ingenia.la/)
+
+- 📝 I regulary write articles on [https://blog.blackbox-vision.tech](https://blog.blackbox-vision.tech)
+
+- 💬 Ask me about **react, react-native, android, ios, micro-frontends, libraries, docker, kubernetes, ci/cd**
 
 <!--
+
+### Hi there 👋
+
 **JonatanSalas/JonatanSalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
