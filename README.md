@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Architect from Argentina</h3>
 
 
-- 🔭 I’m currently working on [BlackBox Vision](https://www.blackbox-vision.tech) and [Ingenia](https://ingenia.la/)
+- 🔭 I’m currently building [BlackBox Vision](https://www.blackbox-vision.tech) while working on [Ingenia](https://ingenia.la/)
 
 - 📝 I regulary write articles on [https://blog.blackbox-vision.tech](https://blog.blackbox-vision.tech)
 
