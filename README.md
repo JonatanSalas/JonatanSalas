@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jonatan Salas</h1>
-<h3 align="center">A passionate Software Architect from Argentina</h3>
-
+<h3 align="center">A passionate Software Architect from Argentina </h3>
 
 - 🔭 I’m currently building [BlackBox Vision](https://www.blackbox-vision.tech) while working on [Ingenia](https://ingenia.la/)
 
 - 📝 I regulary write articles on [https://blog.blackbox-vision.tech](https://blog.blackbox-vision.tech)
 
 - 💬 Ask me about **react, react-native, android, ios, micro-frontends, libraries, docker, kubernetes, ci/cd**
+
+- [![Twitter: JonatanSalas](https://img.shields.io/twitter/follow/jonatan_salas)](https://twitter.com/jonatan_salas)
 
 <!--
 
