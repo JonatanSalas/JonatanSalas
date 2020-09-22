@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently building [BlackBox Vision](https://www.blackbox-vision.tech) while working on [Ingenia](https://ingenia.la/)
 
-- 📝 I regulary write articles on [https://blog.blackbox-vision.tech](https://blog.blackbox-vision.tech)
+- 📝 I regularly write articles on [https://blog.blackbox-vision.tech](https://blog.blackbox-vision.tech)
 
 - 💬 Ask me about **react, react-native, android, ios, micro-frontends, libraries, docker, kubernetes, ci/cd**
 
