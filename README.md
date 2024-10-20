@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonatan Salas</h1>
 <h3 align="center">A passionate Software Architect from Argentina </h3>
 
-- 🔭 I’m currently building [BlackBox Vision]([https://www.blackbox-vision.tech](https://blackboxvision.com))
+- 🔭 I’m currently building [BlackBox Vision](https://blackboxvision.com)
 
 - 📝 I regularly write articles on [https://blog.blackboxvision.com](https://blackboxvision.com)
 
