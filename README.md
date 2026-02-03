@@ -2,7 +2,7 @@ Hi 👋 I’m **Jonatan Salas** — Product Engineer from Argentina.
 
 I build software products from idea to production: shaping architecture, writing code, designing systems, and setting up the infrastructure that allows teams to ship reliably.
 
-I’m the founder of **BlackBox Vision**, where we focus on turning complex product requirements into scalable, maintainable software.
+I’m the founder of [**BlackBox Vision**](https://github.com/blackboxvision), where we focus on turning complex product requirements into scalable, maintainable software.
 
 My work sits at the intersection of:
 
