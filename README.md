@@ -8,6 +8,7 @@ My work sits at the intersection of:
 
 - Product architecture & system design
 - Frontend platforms at scale (React, React Native, micro-frontends)
+- AI engineering, data pipelines, and ETL
 - Mobile engineering (Android & iOS)
 - Cloud-native infrastructure (Docker, Kubernetes, CI/CD)
 - Developer experience, tooling, and reusable libraries
