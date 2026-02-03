@@ -1,28 +1,24 @@
-<h1 align="center">Hi 👋, I'm Jonatan Salas</h1>
-<h3 align="center">A passionate Software Architect from Argentina </h3>
+Hi 👋 I’m **Jonatan Salas** — Product Engineer from Argentina.
 
-- 🔭 I’m currently building [BlackBox Vision](https://blackboxvision.com)
+I build software products from idea to production: shaping architecture, writing code, designing systems, and setting up the infrastructure that allows teams to ship reliably.
 
-- 📝 I regularly write articles on [https://blog.blackboxvision.com](https://blackboxvision.com)
+I’m the founder of **BlackBox Vision**, where we focus on turning complex product requirements into scalable, maintainable software.
 
-- 💬 Ask me about **react, react-native, android, ios, micro-frontends, libraries, docker, kubernetes, ci/cd**
+My work sits at the intersection of:
 
-- [![Twitter: JonatanSalas](https://img.shields.io/twitter/follow/jonatan_salas)](https://twitter.com/jonatan_salas)
+- Product architecture & system design
+- Frontend platforms at scale (React, React Native, micro-frontends)
+- Mobile engineering (Android & iOS)
+- Cloud-native infrastructure (Docker, Kubernetes, CI/CD)
+- Developer experience, tooling, and reusable libraries
 
-<!--
+I care about how software is built in the context of real products, real constraints, and real teams.
 
-### Hi there 👋
+I write about engineering lessons learned while building products:  
+📝 https://blog.blackboxvision.com
 
-**JonatanSalas/JonatanSalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most repositories here are things I built to solve real problems while shipping.
 
-Here are some ideas to get you started:
+💬 Ask me about product architecture, React, React Native, mobile, micro-frontends, Docker, Kubernetes, CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Twitter → [@jonatan_salas](https://x.com/jonatan_salas)
